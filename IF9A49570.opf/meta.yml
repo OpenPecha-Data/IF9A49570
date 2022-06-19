@@ -1,0 +1,35 @@
+id: IF9A49570
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T17:49:24.728215'
+last_modified: '2022-06-19T17:49:24.728220'
+parser: null
+source_metadata:
+  title: Three Jewels Series
+  language: bo
+  description: 'Texts on the theme of the Three Jewels (triratna, dkon mchog gsum)
+    or Triple Gem, i.e., Buddha, Dharma and Saṅgha:'
+  volume:
+    fF808:
+      title: In Praise of the Three Jewels
+      base_file: fF808.txt
+      order: 1
+      parent: Praise
+    fA3A0:
+      title: In Praise of the Three Jewels
+      base_file: fA3A0.txt
+      order: 2
+      parent: Praise
+    f464A:
+      title: The Noble Sūtra of Recalling the Three Jewels
+      base_file: f464A.txt
+      order: 3
+      parent: Recollection
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
